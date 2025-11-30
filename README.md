@@ -1,8 +1,8 @@
 # 🧠 Operating Systems Lab Assignments  
-**Submitted by:** *Lokesh Deshwal*  
-**Course:** B.Tech CSE (Data Science)  
+**Submitted by:** *Aryan Shukla*  
+**Course:** B.Tech CSE (Cyber Security)  
 **Semester:** 5  
-**Roll No:** 2401421062
+**Roll No:** 2301410018
 
 
 ---
